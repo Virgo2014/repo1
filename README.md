@@ -1,4 +1,2 @@
-public class Simple{
-public static void main(String args[]){
-System.out.println("hello javatpoint");
-}}
+hi this gangaram so welcomew to virgo innovation of industry.
+its to be work is work that fresher of that bcoz its production company
